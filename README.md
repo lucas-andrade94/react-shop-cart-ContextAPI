@@ -1,9 +1,9 @@
 <h1 align="center">
-    ByteBank
+    Shop Cart
 </h1>
 
 <h4 align="center">
-  	Project of an bank page
+  	Project of a shop cart
 </h4>
 
 <p>Project developed in a course from alura.com.br</p>
