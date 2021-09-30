@@ -19,11 +19,10 @@
 Project developed using the following technologies:
 
 - [React](https://reactjs.org/)
-- [Styled Components](https://styled-components.com/)
 
 
 ## 💻 Project
-**That's an simple bank page using styled components and with dark mode**
+**That's an simple shop cart page using ContextAPI**
 
 
 ## 💿 Instalation
@@ -35,10 +34,10 @@ What is necessary to have installed:
 ### Run in terminal:
 ```
 # Clone this repository
-git clone https://github.com/lucas-andrade94/react-bytebank.git
+git clone https://github.com/lucas-andrade94/react-shop-cart-ContextAPI.git
 
 # Go to the main folder
-cd react-bytebank
+cd react-shop-cart-ContextAPI
 
 # Install dependencies
 npm install
@@ -50,6 +49,7 @@ npm start
 
 ### Screens
 <div align="center">
-    <img alt="Light mode" title="Light mode" src=".github/screen-1.png?raw=true" width="200px" />
-    <img alt="Dark mode" title="Dark mode" src=".github/screen-2.png?raw=true" width="200px" />
+    <img alt="First Page" title="First Page" src=".github/screen-1.png?raw=true" width="200px" />
+    <img alt="Shop Page" title="Shop Page" src=".github/screen-2.png?raw=true" width="200px" />
+    <img alt="Cart Page" title="Cart Page" src=".github/screen-3.png?raw=true" width="200px" />
 </div>
